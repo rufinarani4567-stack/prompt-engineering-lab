@@ -19,11 +19,6 @@ Each prompt is evaluated on five criteria, using a score from 1 to 5.
 5. Format Consistency
 
 ## Experiment Scores
-
-Scores must be assigned after comparing the actual basic and improved prompt outputs.
-
-| Experiment | Basic Prompt Score / 25 | Improved Prompt Score / 25 |
-## Experiment Scores
 | Experiment | Basic Score / 25 | Improved Score / 25 |
 |---|---:|---:|
 | Email Writing | 18 | 23 |
