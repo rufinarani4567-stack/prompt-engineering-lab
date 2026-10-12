@@ -23,12 +23,14 @@ Each prompt is evaluated on five criteria, using a score from 1 to 5.
 Scores must be assigned after comparing the actual basic and improved prompt outputs.
 
 | Experiment | Basic Prompt Score / 25 | Improved Prompt Score / 25 |
+## Experiment Scores
+| Experiment | Basic Score / 25 | Improved Score / 25 |
 |---|---:|---:|
-| Professional Email Writing | To be evaluated | To be evaluated |
-| Business Report Summarization | To be evaluated | To be evaluated |
-| Job Description Skill Extraction | To be evaluated | To be evaluated |
-| Customer Feedback Classification | To be evaluated | To be evaluated |
-| Table Generation and Calculation | To be evaluated | To be evaluated |
+| Email Writing | 18 | 23 |
+| Business Report Summarization | 17 | 24 |
+| Skill Extraction |  |  |
+| Customer Feedback Analysis |  |  |
+| Sales Table Generation |  |  |
 
 ## Observations
 
