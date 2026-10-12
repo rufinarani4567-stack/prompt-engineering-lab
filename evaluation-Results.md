@@ -1,77 +1,43 @@
-Prompt Evaluation Results
+# Prompt Evaluation Results
 
-Evaluation Method
+## Evaluation Method
 
-Each prompt is scored from 1 to 5 using the same criteria.
+Each prompt is evaluated on five criteria, using a score from 1 to 5.
 
-1 = Poor
-2 = Below Expectations
-3 = Acceptable
-4 = Good
-5 = Excellent
+- 1 = Poor
+- 2 = Below Expectations
+- 3 = Acceptable
+- 4 = Good
+- 5 = Excellent
 
-Experiment Scores
+## Evaluation Criteria
 
-Experiment
+1. Relevance
+2. Accuracy
+3. Completeness
+4. Instruction Following
+5. Format Consistency
 
-Basic Score / 25
+## Experiment Scores
 
-Improved Score / 25
+Scores must be assigned after comparing the actual basic and improved prompt outputs.
 
-Email Writing
+| Experiment | Basic Prompt Score / 25 | Improved Prompt Score / 25 |
+|---|---:|---:|
+| Professional Email Writing | To be evaluated | To be evaluated |
+| Business Report Summarization | To be evaluated | To be evaluated |
+| Job Description Skill Extraction | To be evaluated | To be evaluated |
+| Customer Feedback Classification | To be evaluated | To be evaluated |
+| Table Generation and Calculation | To be evaluated | To be evaluated |
 
-Pending
+## Observations
 
-Pending
+The experiments compare general prompts with prompts that include clearer instructions, context, and output formats.
 
-Business Summarization
+## Conclusion
 
-Pending
+This project explores how prompt design can influence the relevance, accuracy, completeness, and structure of Generative AI responses.
 
-Pending
+## Limitations
 
-Skill Extraction
-
-Pending
-
-Pending
-
-Feedback Classification
-
-Pending
-
-Pending
-
-Table Generation
-
-Pending
-
-Pending
-
-Evaluation Criteria
-
-Relevance
-
-Accuracy
-
-Completeness
-
-Instruction Following
-
-Format Consistency
-
-Observations
-
-To be completed after testing.
-
-Key Learnings
-
-To be completed after testing.
-
-Limitations
-
-Results may vary between models and repeated runs. AI-generated information should be verified.
-
-Conclusion
-
-To be completed after evaluating the actual results.
+This is a small exploratory project using five business tasks. Results may vary depending on the AI model and the wording of the prompts.
