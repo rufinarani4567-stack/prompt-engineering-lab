@@ -23,9 +23,9 @@ Each prompt is evaluated on five criteria, using a score from 1 to 5.
 |---|---:|---:|
 | Email Writing | 18 | 23 |
 | Business Report Summarization | 17 | 24 |
-| Skill Extraction |  |  |
-| Customer Feedback Analysis |  |  |
-| Sales Table Generation |  |  |
+| Skill Extraction | 20 | 24 |
+| Customer Feedback Analysis | 19 | 23 |
+| Sales Table Generation | 20 | 25 |
 
 ## Observations
 
